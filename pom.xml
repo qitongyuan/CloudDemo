@@ -17,6 +17,7 @@
     <modules>
         <module>ServiceProvider</module>
         <module>ServiceConsumer</module>
+        <module>CloudGateWay</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
