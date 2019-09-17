@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e74a0506-0701-42a4-b8c8-590b931792f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CloudGateWay/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CloudGateWay/src/main/java/com/qty/GateWayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CloudGateWay/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,11 +16,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ServiceProvider/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,15 +41,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/java/com/qty/ServiceProviderApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ServiceConsumer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
+            <state relative-caret-position="825">
               <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
             </state>
           </provider>
@@ -83,12 +74,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ServiceConsumer/src/main/java/com/qty/ServcieConsumerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="400">
               <caret line="24" column="33" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,18 +86,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CloudGateWay/src/main/java/com/qty/GateWayApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="175">
               <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CloudGateWay/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -120,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CloudGateWay/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="1075">
               <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
@@ -195,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -207,25 +195,25 @@
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -233,7 +221,7 @@
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -242,7 +230,7 @@
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -252,28 +240,13 @@
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="CloudGateWay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
               <item name="ServiceConsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qty" type="462c0819:PsiDirectoryNode" />
+              <item name="FeignClients" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -282,11 +255,57 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceProvider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceProvider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceProvider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceProvider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceProvider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceProvider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qty" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,33 +382,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568449677712</updated>
-      <workItem from="1568449680797" duration="6939000" />
+      <workItem from="1568449680797" duration="7624000" />
+      <workItem from="1568728128886" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="网关初步编写">
+      <created>1568472895673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568472895673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6939000" />
+    <option name="totallyTimeSpent" value="7992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12691467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32356077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.19739696" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.33296824" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3445287" />
@@ -397,20 +416,32 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19739696" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.16160521" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="网关初步编写" />
+    <option name="LAST_COMMIT_MESSAGE" value="网关初步编写" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://C:/maven-repo/org/springframework/cloud/spring-cloud-alibaba-dependencies/0.2.1.RELEASE/spring-cloud-alibaba-dependencies-0.2.1.RELEASE.pom">
@@ -420,60 +451,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/java/ServiceProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" lean-forward="true" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/java/ServiceProviderApplication.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceConsumer/src/main/java/com/qty/FeignClients/helloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceConsumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/java/com/qty/ServiceProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServiceConsumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -487,34 +469,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CloudGateWay/pom.xml">
+    <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="275">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceConsumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceConsumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ServiceConsumer/src/main/java/com/qty/ServcieConsumerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="400">
           <caret line="24" column="33" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CloudGateWay/src/main/java/com/qty/GateWayApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="175">
           <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudGateWay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -522,6 +523,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceConsumer/src/main/java/com/qty/FeignClients/helloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServiceProvider/src/main/java/com/qty/ServiceProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
